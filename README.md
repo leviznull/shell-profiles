@@ -30,4 +30,4 @@ done
 rm -rf ~/themes/
 ```
 ## All Done:
-Too choose and enable theme profile select shell preferences or profiles and pick profile.
+To choose and enable theme profile select shell ```preferences``` or ```profiles``` and pick a profile.
